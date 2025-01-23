@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** and aspiring **P
 ## 🏆 Achievements
 - **Certification:** Python for Data Analysis (Scalar, taught by Akash Rajpuria)  
 - Completed 4+ real-world projects aligned with **business analytics** and **product analysis**. I’m certified to wrangle data, not snakes—though I hear data bites sometimes.
+- Completed the HackerRank Advanced SQL Test, showcasing proficiency in advanced SQL techniques such as complex queries, window functions, joins, and data analysis.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate—or just to share data memes.
 
